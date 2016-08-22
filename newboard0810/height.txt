@@ -1,0 +1,7 @@
+
+Bottom highest component: 2.5mm
+Top highest component: 2.6mm
+PCB height: 1.6mm
+EMI shielding height:0.3mm
+
+so the final height should be : 0.3+2.5+1.6+2.6+0.3=7.3mm

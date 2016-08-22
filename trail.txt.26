@@ -1,0 +1,232 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 1.000296 1301 0 0 844 1440 0 0 900 13
+!mem_use INCREASE Blocks 210999, AppSize 27301312, SysSize 35296944
+< 0 0.920889 1096 0 0 777 1440 0 0 900 13
+< 0 0.920889 986 0 0 777 1440 0 0 900 13
+!%CI欢迎使用 Creo Elements/Pro 5.0。
+!Application (eDrawings): running DLL-mode user_initialize
+!Application (eDrawings): returned from DLL-mode user_initialize; status is 0
+!Application (eDrawings): started via registry.
+!	exec path: D:\Program Files\PTC\Creo Elements\Pro5.0\i486_nt\obj\proeconnector.dll
+!	type: synchronous Pro/TOOLKIT DLL
+#ASSEMBLY
+#RETRIEVE
+!%CP输入对象名: 
+!%TR
+C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\asm0002.asm.28
+< 2 0.118519 178 0 0 100 1440 0 0 900 13
+~ Trail `UI Desktop` `UI Desktop` \
+ `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!18-Mar-14 18:03:40  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\asm0002.asm.28
+!18-Mar-14 18:03:40  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\dike.prt.25
+!18-Mar-14 18:03:40  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\dike.prt.25
+!18-Mar-14 18:03:40  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\gongfang.asm.5
+!18-Mar-14 18:03:40  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\gongfangban.prt.6
+!18-Mar-14 18:03:40  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\gongfangban.prt.6
+!18-Mar-14 18:03:40  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\eq-a-v1.prt.3
+!18-Mar-14 18:03:40  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\eq-a-v1.prt.3
+!18-Mar-14 18:03:40  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\dc-005_1.prt.2
+!18-Mar-14 18:03:40  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\dc-005_1.prt.2
+!18-Mar-14 18:03:40  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\yinxiangchazuo.prt.8
+!sket_eps               7.5
+!mem_use INCREASE Blocks 190162, AppSize 66217679, SysSize 74627720
+!18-Mar-14 18:03:40  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\yinxiangchazuo.prt.8
+!18-Mar-14 18:03:40  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\gongfang.asm.5
+!18-Mar-14 18:03:40  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\zhuban.asm.19
+!18-Mar-14 18:03:40  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\zhuban.prt.11
+!18-Mar-14 18:03:40  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\zhuban.prt.11
+!18-Mar-14 18:03:40  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\eq-b-v1.prt.3
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\eq-b-v1.prt.3
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\hdmi_1.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\hdmi_1.prt.2
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\net-connector_1.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\net-connector_1.prt.2
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\micro-usb_1.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\micro-usb_1.prt.2
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\usb.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\usb.prt.2
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\sd_1.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\sd_1.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\zhuban.asm.19
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\duanziban.asm.17
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\duanziban.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\duanziban.prt.2
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\vga.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\vga.prt.2
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\rj.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\rj.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\duanziban.asm.17
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\tianxian.prt.3
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\tianxian.prt.3
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\mianke.prt.3
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\mianke.prt.3
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\qiankongban.asm.4
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\qiankongban.prt.4
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\qiankongban.prt.4
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\button-switch_1.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\button-switch_1.prt.2
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\dg.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\dg.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\qiankongban.asm.4
+!18-Mar-14 18:03:41  Start C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\chuangxing-kaiguan.prt.2
+!18-Mar-14 18:03:41  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\chuangxing-kaiguan.prt.2
+!ProgressBarDlg: Regen Started
+< 0 0.920889 988 0 0 777 1440 0 0 900 13
+!mem_use INCREASE Blocks 236372, AppSize 94059749, SysSize 103868680
+< 0 0.920889 1001 0 0 777 1440 0 0 900 13
+~ Timer `UI Desktop` `UI Desktop` \
+ `EmbedBrowserTimer`
+!ProgressBarDlg: Regen Completed
+!18-Mar-14 18:03:42  End   C:\Documents and Settings\Administrator\桌面\新建文件夹 (20)\装配\asm0002.asm.28
+< 0 0.920889 973 0 0 777 1440 0 0 900 13
+~ Command `ProCmdEnvDtmDisp` 0 
+!%CI基准平面将不显示。
+~ Command `ProCmdEnvAxisDisp` 0 
+!%CI将不显示轴。
+~ Command `ProCmdEnvPntsDisp` 0 
+!%CI将不显示基准点。
+~ Command `ProCmdEnvCsysDisp` 0 
+!%CI不显示坐标系。
+~ Command `ProCmdEnvAnnotElemDisp` 0 
+!%CI将不显示注释。
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 531 458 0 514 973 777 1440 900 13703 
+~ Move `main_dlg_cur` `proe_win` \
+9 537 459 0 1538 973 777 1440 900 13703 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 461 0 1538 973 777 1440 900 13719 
+~ Move `main_dlg_cur` `proe_win` \
+9 550 464 0 1538 973 777 1440 900 13750 
+~ Move `main_dlg_cur` `proe_win` \
+9 558 464 0 514 973 777 1440 900 13750 
+~ Move `main_dlg_cur` `proe_win` \
+9 561 466 0 1538 973 777 1440 900 13766 
+~ Move `main_dlg_cur` `proe_win` \
+9 565 467 0 1538 973 777 1440 900 13781 
+~ Move `main_dlg_cur` `proe_win` \
+9 570 467 0 514 973 777 1440 900 13812 
+~ Move `main_dlg_cur` `proe_win` \
+9 572 467 0 514 973 777 1440 900 13812 
+~ Move `main_dlg_cur` `proe_win` \
+9 576 467 0 514 973 777 1440 900 13828 
+~ Move `main_dlg_cur` `proe_win` \
+9 590 457 0 1538 973 777 1440 900 13844 
+~ Move `main_dlg_cur` `proe_win` \
+9 601 449 0 1538 973 777 1440 900 13859 
+~ Move `main_dlg_cur` `proe_win` \
+9 614 440 0 1538 973 777 1440 900 13891 
+~ Move `main_dlg_cur` `proe_win` \
+9 624 431 0 1538 973 777 1440 900 13906 
+~ Move `main_dlg_cur` `proe_win` \
+9 629 428 0 1538 973 777 1440 900 13922 
+~ Move `main_dlg_cur` `proe_win` \
+9 630 427 0 1538 973 777 1440 900 14016 
+~ Move `main_dlg_cur` `proe_win` \
+9 634 423 0 1538 973 777 1440 900 14031 
+~ Move `main_dlg_cur` `proe_win` \
+9 639 416 0 1538 973 777 1440 900 14047 
+~ Move `main_dlg_cur` `proe_win` \
+9 645 410 0 1538 973 777 1440 900 14062 
+~ Move `main_dlg_cur` `proe_win` \
+9 653 399 0 1538 973 777 1440 900 14078 
+~ Move `main_dlg_cur` `proe_win` \
+9 664 389 0 1538 973 777 1440 900 14109 
+~ Move `main_dlg_cur` `proe_win` \
+9 673 381 0 1538 973 777 1440 900 14125 
+~ Move `main_dlg_cur` `proe_win` \
+9 678 375 0 1538 973 777 1440 900 14141 
+~ Move `main_dlg_cur` `proe_win` \
+9 680 372 0 1538 973 777 1440 900 14156 
+~ Move `main_dlg_cur` `proe_win` \
+9 684 370 0 1538 973 777 1440 900 14172 
+~ Move `main_dlg_cur` `proe_win` \
+9 686 369 0 1538 973 777 1440 900 14187 
+~ Move `main_dlg_cur` `proe_win` \
+9 689 364 0 1538 973 777 1440 900 14203 
+~ Move `main_dlg_cur` `proe_win` \
+9 697 360 0 1538 973 777 1440 900 14219 
+~ Move `main_dlg_cur` `proe_win` \
+9 703 357 0 1538 973 777 1440 900 14234 
+~ Move `main_dlg_cur` `proe_win` \
+9 713 350 0 1538 973 777 1440 900 14250 
+~ Move `main_dlg_cur` `proe_win` \
+9 716 348 0 1538 973 777 1440 900 14266 
+~ Move `main_dlg_cur` `proe_win` \
+9 717 347 0 1538 973 777 1440 900 14281 
+~ Move `main_dlg_cur` `proe_win` \
+9 720 345 0 1538 973 777 1440 900 14297 
+~ Move `main_dlg_cur` `proe_win` \
+9 721 345 0 514 973 777 1440 900 14312 
+~ Move `main_dlg_cur` `proe_win` \
+9 723 345 0 514 973 777 1440 900 14344 
+~ Move `main_dlg_cur` `proe_win` \
+9 724 343 0 1538 973 777 1440 900 14359 
+~ Move `main_dlg_cur` `proe_win` \
+9 726 342 0 1538 973 777 1440 900 14375 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 339 0 1538 973 777 1440 900 14391 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 338 0 1026 973 777 1440 900 14406 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 337 0 1026 973 777 1440 900 14422 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 335 0 1026 973 777 1440 900 14437 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 332 0 1026 973 777 1440 900 14453 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 331 0 1026 973 777 1440 900 14469 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 328 0 1026 973 777 1440 900 14484 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 325 0 1026 973 777 1440 900 14500 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 324 0 1026 973 777 1440 900 14516 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 321 0 1026 973 777 1440 900 14531 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 319 0 1026 973 777 1440 900 14562 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 318 0 1026 973 777 1440 900 14578 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 316 0 1026 973 777 1440 900 14594 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 313 0 1026 973 777 1440 900 14609 
+~ Move `main_dlg_cur` `proe_win` \
+9 728 309 0 1026 973 777 1440 900 14625 
+~ Move `main_dlg_cur` `proe_win` \
+9 727 307 0 1538 973 777 1440 900 14641 
+~ Move `main_dlg_cur` `proe_win` \
+9 726 305 0 1538 973 777 1440 900 14656 
+~ Move `main_dlg_cur` `proe_win` \
+9 724 300 0 1538 973 777 1440 900 14672 
+~ Move `main_dlg_cur` `proe_win` \
+9 721 294 0 1538 973 777 1440 900 14687 
+~ Move `main_dlg_cur` `proe_win` \
+9 720 289 0 1538 973 777 1440 900 14703 
+~ Move `main_dlg_cur` `proe_win` \
+9 720 287 0 1026 973 777 1440 900 14719 
+~ Move `main_dlg_cur` `proe_win` \
+9 719 284 0 1538 973 777 1440 900 14734 
+~ Move `main_dlg_cur` `proe_win` \
+9 718 283 0 1538 973 777 1440 900 14750 
+~ Move `main_dlg_cur` `proe_win` \
+9 717 280 0 1538 973 777 1440 900 14844 
+~ Move `main_dlg_cur` `proe_win` \
+9 715 279 0 1538 973 777 1440 900 14859 
+~ Move `main_dlg_cur` `proe_win` \
+9 714 278 0 1538 973 777 1440 900 14875 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 714 278 0 0 973 777 1440 900 15437 
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Elements/Pro 将终止，并且所有未保存的工作将会丢失。
+!               : 您确实要退出吗?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!Application (eDrawings): running DLL-mode user_terminate
+!Application (eDrawings): returned from DLL-mode user_terminate
+!End of Trail File

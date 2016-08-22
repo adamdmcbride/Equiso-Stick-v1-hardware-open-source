@@ -1,0 +1,593 @@
+﻿!trail file version No. 1450
+!Pro/ENGINEER  TM  5.0  (c) 1988-2002 by Wisdom Systems  All Rights Reserved.
+< 0 1.000296 1301 0 0 844 1440 0 0 900 13
+!mem_use INCREASE Blocks 210971, AppSize 27300328, SysSize 35296944
+< 0 0.920889 1096 0 0 777 1440 0 0 900 13
+< 0 0.920889 986 0 0 777 1440 0 0 900 13
+!%CI欢迎使用 Creo Elements/Pro 5.0。
+!Application (eDrawings): running DLL-mode user_initialize
+!Application (eDrawings): returned from DLL-mode user_initialize; status is 0
+!Application (eDrawings): started via registry.
+!	exec path: D:\Program Files\PTC\Creo Elements\Pro5.0\i486_nt\obj\proeconnector.dll
+!	type: synchronous Pro/TOOLKIT DLL
+#ASSEMBLY
+#RETRIEVE
+!%CP输入对象名: 
+!%TR
+C:\Documents and Settings\Administrator\桌面\装配\asm0002.asm.16
+< 2 0.118519 178 0 0 100 1440 0 0 900 13
+~ Trail `UI Desktop` `UI Desktop` \
+ `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!17-Mar-14 16:37:46  Start C:\Documents and Settings\Administrator\桌面\装配\asm0002.asm.16
+!17-Mar-14 16:37:46  Start C:\Documents and Settings\Administrator\桌面\装配\dike.prt.14
+!17-Mar-14 16:37:46  End   C:\Documents and Settings\Administrator\桌面\装配\dike.prt.14
+!17-Mar-14 16:37:46  Start C:\Documents and Settings\Administrator\桌面\装配\gongfang.asm.3
+!17-Mar-14 16:37:46  Start C:\Documents and Settings\Administrator\桌面\装配\gongfangban.prt.3
+!17-Mar-14 16:37:46  End   C:\Documents and Settings\Administrator\桌面\装配\gongfangban.prt.3
+!17-Mar-14 16:37:46  Start C:\Documents and Settings\Administrator\桌面\装配\eq-a-v1.prt.3
+!17-Mar-14 16:37:46  End   C:\Documents and Settings\Administrator\桌面\装配\eq-a-v1.prt.3
+!17-Mar-14 16:37:46  Start C:\Documents and Settings\Administrator\桌面\装配\dc-005_1.prt.2
+!17-Mar-14 16:37:46  End   C:\Documents and Settings\Administrator\桌面\装配\dc-005_1.prt.2
+!17-Mar-14 16:37:46  Start C:\Documents and Settings\Administrator\桌面\装配\yinxiangchazuo.prt.8
+!sket_eps               7.5
+!mem_use INCREASE Blocks 185623, AppSize 65932894, SysSize 74275152
+!17-Mar-14 16:37:46  End   C:\Documents and Settings\Administrator\桌面\装配\yinxiangchazuo.prt.8
+!17-Mar-14 16:37:46  End   C:\Documents and Settings\Administrator\桌面\装配\gongfang.asm.3
+!17-Mar-14 16:37:46  Start C:\Documents and Settings\Administrator\桌面\装配\zhuban.asm.15
+!17-Mar-14 16:37:46  Start C:\Documents and Settings\Administrator\桌面\装配\zhuban.prt.10
+!17-Mar-14 16:37:46  End   C:\Documents and Settings\Administrator\桌面\装配\zhuban.prt.10
+!17-Mar-14 16:37:46  Start C:\Documents and Settings\Administrator\桌面\装配\eq-b-v1.prt.3
+!17-Mar-14 16:37:46  End   C:\Documents and Settings\Administrator\桌面\装配\eq-b-v1.prt.3
+!17-Mar-14 16:37:46  Start C:\Documents and Settings\Administrator\桌面\装配\hdmi_1.prt.2
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\hdmi_1.prt.2
+!17-Mar-14 16:37:47  Start C:\Documents and Settings\Administrator\桌面\装配\net-connector_1.prt.2
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\net-connector_1.prt.2
+!17-Mar-14 16:37:47  Start C:\Documents and Settings\Administrator\桌面\装配\micro-usb_1.prt.2
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\micro-usb_1.prt.2
+!17-Mar-14 16:37:47  Start C:\Documents and Settings\Administrator\桌面\装配\usb.prt.2
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\usb.prt.2
+!17-Mar-14 16:37:47  Start C:\Documents and Settings\Administrator\桌面\装配\sd_1.prt.1
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\sd_1.prt.1
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\zhuban.asm.15
+!17-Mar-14 16:37:47  Start C:\Documents and Settings\Administrator\桌面\装配\duanziban.asm.8
+!17-Mar-14 16:37:47  Start C:\Documents and Settings\Administrator\桌面\装配\duanziban.prt.2
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\duanziban.prt.2
+!17-Mar-14 16:37:47  Start C:\Documents and Settings\Administrator\桌面\装配\vga.prt.2
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\vga.prt.2
+!17-Mar-14 16:37:47  Start C:\Documents and Settings\Administrator\桌面\装配\rj.prt.2
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\rj.prt.2
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\duanziban.asm.8
+!17-Mar-14 16:37:47  Start C:\Documents and Settings\Administrator\桌面\装配\tianxian.prt.3
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\tianxian.prt.3
+!17-Mar-14 16:37:47  Start C:\Documents and Settings\Administrator\桌面\装配\mianke.prt.2
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\mianke.prt.2
+!17-Mar-14 16:37:47  End   C:\Documents and Settings\Administrator\桌面\装配\asm0002.asm.16
+< 0 0.920889 988 0 0 777 1440 0 0 900 13
+< 0 0.920889 1001 0 0 777 1440 0 0 900 13
+< 0 0.920889 973 0 0 777 1440 0 0 900 13
+~ Timer `UI Desktop` `UI Desktop` \
+ `EmbedBrowserTimer`
+~ Command `ProCmdEnvDtmDisp` 0 
+!%CI基准平面将不显示。
+~ Command `ProCmdEnvAxisDisp` 0 
+!%CI将不显示轴。
+~ Command `ProCmdEnvPntsDisp` 0 
+!%CI将不显示基准点。
+~ Command `ProCmdEnvCsysDisp` 0 
+!%CI不显示坐标系。
+~ Command `ProCmdEnvAnnotElemDisp` 0 
+!%CI将不显示注释。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 267 511 458752 0 973 777 1440 900 15015 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 267 511 458752 0 973 777 1440 900 15062 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 267 511 458752 0 973 777 1440 900 15094 
+~ Command `ProCmdEnvMdlDisp`  `Wireframe`
+!%CI模型将以线框方式显示。
+~ Wheel `main_dlg_cur` `proe_win` \
+9 111 449 458752 0 973 777 1440 900 20031 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 111 449 458752 0 973 777 1440 900 20078 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 111 449 458752 0 973 777 1440 900 20140 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 111 449 458752 0 973 777 1440 900 20203 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 111 449 458752 0 973 777 1440 900 20328 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 111 449 458752 0 973 777 1440 900 20984 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 111 449 458752 0 973 777 1440 900 21140 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 110 449 393216 0 973 777 1440 900 21984 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 110 449 393216 0 973 777 1440 900 22015 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 110 449 393216 0 973 777 1440 900 22062 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 110 449 393216 0 973 777 1440 900 22125 
+~ Command `ProCmdEnvMdlDisp`  `Shading`
+!%CI将要显示着色模型
+~ Wheel `main_dlg_cur` `proe_win` \
+9 349 396 393216 0 973 777 1440 900 24562 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 349 396 393216 0 973 777 1440 900 24594 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 349 396 393216 0 973 777 1440 900 24656 
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 378 371 0 2 973 777 1440 900 25094 
+~ Move `main_dlg_cur` `proe_win` \
+9 379 371 0 514 973 777 1440 900 25140 
+~ Move `main_dlg_cur` `proe_win` \
+9 380 370 0 1538 973 777 1440 900 25156 
+~ Move `main_dlg_cur` `proe_win` \
+9 383 367 0 1538 973 777 1440 900 25156 
+~ Move `main_dlg_cur` `proe_win` \
+9 384 364 0 1538 973 777 1440 900 25172 
+~ Move `main_dlg_cur` `proe_win` \
+9 385 358 0 1538 973 777 1440 900 25187 
+~ Move `main_dlg_cur` `proe_win` \
+9 388 350 0 1538 973 777 1440 900 25203 
+~ Move `main_dlg_cur` `proe_win` \
+9 389 344 0 1538 973 777 1440 900 25219 
+~ Move `main_dlg_cur` `proe_win` \
+9 391 337 0 1538 973 777 1440 900 25234 
+~ Move `main_dlg_cur` `proe_win` \
+9 391 335 0 1026 973 777 1440 900 25250 
+~ Move `main_dlg_cur` `proe_win` \
+9 391 334 0 1026 973 777 1440 900 25265 
+~ Move `main_dlg_cur` `proe_win` \
+9 391 333 0 1026 973 777 1440 900 25469 
+~ Move `main_dlg_cur` `proe_win` \
+9 392 332 0 1538 973 777 1440 900 25484 
+~ Move `main_dlg_cur` `proe_win` \
+9 392 330 0 1026 973 777 1440 900 25500 
+~ Move `main_dlg_cur` `proe_win` \
+9 393 329 0 1538 973 777 1440 900 25515 
+~ Move `main_dlg_cur` `proe_win` \
+9 394 327 0 1538 973 777 1440 900 25547 
+~ Move `main_dlg_cur` `proe_win` \
+9 395 326 0 1538 973 777 1440 900 25562 
+~ Move `main_dlg_cur` `proe_win` \
+9 396 323 0 1538 973 777 1440 900 25578 
+~ Move `main_dlg_cur` `proe_win` \
+9 397 320 0 1538 973 777 1440 900 25594 
+~ Move `main_dlg_cur` `proe_win` \
+9 397 319 0 1026 973 777 1440 900 25609 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 397 319 0 0 973 777 1440 900 25875 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 413 150 458752 0 973 777 1440 900 26312 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 413 150 458752 0 973 777 1440 900 26328 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 413 150 458752 0 973 777 1440 900 26344 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 413 150 458752 0 973 777 1440 900 26375 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 371 181 458752 1536 973 777 1440 900 26672 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 364 186 458752 1536 973 777 1440 900 26703 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 360 188 458752 0 973 777 1440 900 26750 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 323 230 393216 0 973 777 1440 900 27297 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 323 230 393216 0 973 777 1440 900 27312 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 323 230 393216 0 973 777 1440 900 27344 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 323 230 393216 0 973 777 1440 900 27359 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 323 238 393216 0 973 777 1440 900 27578 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 323 238 393216 0 973 777 1440 900 27594 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 323 238 393216 0 973 777 1440 900 27625 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 411 254 393216 0 973 777 1440 900 28094 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 405 275 393216 1536 973 777 1440 900 28375 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 403 279 393216 0 973 777 1440 900 28390 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 403 279 393216 0 973 777 1440 900 28453 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 369 318 393216 0 973 777 1440 900 28625 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 369 318 393216 0 973 777 1440 900 28656 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 369 318 393216 0 973 777 1440 900 28672 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 369 318 393216 0 973 777 1440 900 28734 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 459 285 458752 1536 973 777 1440 900 29187 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 459 285 458752 0 973 777 1440 900 29219 
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 558 287 0 2 973 777 1440 900 29719 
+~ Move `main_dlg_cur` `proe_win` \
+9 559 289 0 1538 973 777 1440 900 29719 
+~ Move `main_dlg_cur` `proe_win` \
+9 559 290 0 1026 973 777 1440 900 29719 
+~ Move `main_dlg_cur` `proe_win` \
+9 559 292 0 1026 973 777 1440 900 29734 
+~ Move `main_dlg_cur` `proe_win` \
+9 559 296 0 1026 973 777 1440 900 29750 
+~ Move `main_dlg_cur` `proe_win` \
+9 558 302 0 1538 973 777 1440 900 29750 
+~ Move `main_dlg_cur` `proe_win` \
+9 557 307 0 1538 973 777 1440 900 29765 
+~ Move `main_dlg_cur` `proe_win` \
+9 555 312 0 1538 973 777 1440 900 29781 
+~ Move `main_dlg_cur` `proe_win` \
+9 554 316 0 1538 973 777 1440 900 29797 
+~ Move `main_dlg_cur` `proe_win` \
+9 554 318 0 1026 973 777 1440 900 29812 
+~ Move `main_dlg_cur` `proe_win` \
+9 553 320 0 1538 973 777 1440 900 29937 
+~ Move `main_dlg_cur` `proe_win` \
+9 552 322 0 1538 973 777 1440 900 29937 
+~ Move `main_dlg_cur` `proe_win` \
+9 552 323 0 1026 973 777 1440 900 29969 
+~ Move `main_dlg_cur` `proe_win` \
+9 552 324 0 1026 973 777 1440 900 30094 
+~ Move `main_dlg_cur` `proe_win` \
+9 553 324 0 514 973 777 1440 900 30109 
+~ Move `main_dlg_cur` `proe_win` \
+9 556 324 0 514 973 777 1440 900 30125 
+~ Move `main_dlg_cur` `proe_win` \
+9 558 324 0 514 973 777 1440 900 30140 
+~ Move `main_dlg_cur` `proe_win` \
+9 560 322 0 1538 973 777 1440 900 30156 
+~ Move `main_dlg_cur` `proe_win` \
+9 561 321 0 1538 973 777 1440 900 30156 
+~ Move `main_dlg_cur` `proe_win` \
+9 568 316 0 1538 973 777 1440 900 30172 
+~ Move `main_dlg_cur` `proe_win` \
+9 580 304 0 1538 973 777 1440 900 30203 
+~ Move `main_dlg_cur` `proe_win` \
+9 584 301 0 1538 973 777 1440 900 30219 
+~ Move `main_dlg_cur` `proe_win` \
+9 585 299 0 1538 973 777 1440 900 30234 
+~ Move `main_dlg_cur` `proe_win` \
+9 585 300 0 1026 973 777 1440 900 30594 
+~ Move `main_dlg_cur` `proe_win` \
+9 583 301 0 1538 973 777 1440 900 30625 
+~ Move `main_dlg_cur` `proe_win` \
+9 582 302 0 1538 973 777 1440 900 30625 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 582 302 0 0 973 777 1440 900 30734 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 429 347 458752 1536 973 777 1440 900 31234 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 520 314 458752 512 973 777 1440 900 31390 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 520 314 458752 0 973 777 1440 900 31453 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 538 306 458752 512 973 777 1440 900 31828 
+~ Wheel `main_dlg_cur` `proe_win` \
+9 540 309 458752 1536 973 777 1440 900 31859 
+~ MButtonArm `main_dlg_cur` `proe_win` \
+9 540 309 0 2 973 777 1440 900 33812 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 310 0 1026 973 777 1440 900 33890 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 311 0 1026 973 777 1440 900 33906 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 314 0 1026 973 777 1440 900 33906 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 316 0 1026 973 777 1440 900 33922 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 329 0 1026 973 777 1440 900 33984 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 330 0 1026 973 777 1440 900 34000 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 331 0 1026 973 777 1440 900 34015 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 332 0 1026 973 777 1440 900 34031 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 333 0 1026 973 777 1440 900 34047 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 335 0 1026 973 777 1440 900 34062 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 338 0 1026 973 777 1440 900 34078 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 340 0 1026 973 777 1440 900 34109 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 342 0 1026 973 777 1440 900 34125 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 345 0 1026 973 777 1440 900 34140 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 346 0 1026 973 777 1440 900 34156 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 347 0 1026 973 777 1440 900 34437 
+~ Move `main_dlg_cur` `proe_win` \
+9 540 348 0 1026 973 777 1440 900 34437 
+~ Move `main_dlg_cur` `proe_win` \
+9 536 348 0 514 973 777 1440 900 34453 
+~ Move `main_dlg_cur` `proe_win` \
+9 531 348 0 514 973 777 1440 900 34469 
+~ Move `main_dlg_cur` `proe_win` \
+9 528 348 0 514 973 777 1440 900 34484 
+~ Move `main_dlg_cur` `proe_win` \
+9 526 348 0 514 973 777 1440 900 34500 
+~ Move `main_dlg_cur` `proe_win` \
+9 524 348 0 514 973 777 1440 900 34515 
+~ Move `main_dlg_cur` `proe_win` \
+9 518 348 0 514 973 777 1440 900 34547 
+~ Move `main_dlg_cur` `proe_win` \
+9 517 348 0 514 973 777 1440 900 34562 
+~ Move `main_dlg_cur` `proe_win` \
+9 516 348 0 514 973 777 1440 900 34640 
+~ Move `main_dlg_cur` `proe_win` \
+9 514 348 0 514 973 777 1440 900 34656 
+~ Move `main_dlg_cur` `proe_win` \
+9 513 348 0 514 973 777 1440 900 34672 
+~ Move `main_dlg_cur` `proe_win` \
+9 509 348 0 514 973 777 1440 900 34687 
+~ Move `main_dlg_cur` `proe_win` \
+9 505 348 0 514 973 777 1440 900 34703 
+~ Move `main_dlg_cur` `proe_win` \
+9 501 348 0 514 973 777 1440 900 34719 
+~ Move `main_dlg_cur` `proe_win` \
+9 498 348 0 514 973 777 1440 900 34734 
+~ Move `main_dlg_cur` `proe_win` \
+9 495 348 0 514 973 777 1440 900 34750 
+~ Move `main_dlg_cur` `proe_win` \
+9 493 348 0 514 973 777 1440 900 34765 
+~ Move `main_dlg_cur` `proe_win` \
+9 492 347 0 1538 973 777 1440 900 34797 
+~ Move `main_dlg_cur` `proe_win` \
+9 490 346 0 1538 973 777 1440 900 34812 
+~ Move `main_dlg_cur` `proe_win` \
+9 489 345 0 1538 973 777 1440 900 34828 
+~ Move `main_dlg_cur` `proe_win` \
+9 487 345 0 514 973 777 1440 900 34844 
+~ Move `main_dlg_cur` `proe_win` \
+9 486 345 0 514 973 777 1440 900 35469 
+~ Move `main_dlg_cur` `proe_win` \
+9 487 343 0 1538 973 777 1440 900 35484 
+~ Move `main_dlg_cur` `proe_win` \
+9 488 342 0 1538 973 777 1440 900 35500 
+~ Move `main_dlg_cur` `proe_win` \
+9 489 340 0 1538 973 777 1440 900 35515 
+~ Move `main_dlg_cur` `proe_win` \
+9 491 337 0 1538 973 777 1440 900 35531 
+~ Move `main_dlg_cur` `proe_win` \
+9 492 335 0 1538 973 777 1440 900 35547 
+~ Move `main_dlg_cur` `proe_win` \
+9 492 333 0 1026 973 777 1440 900 35562 
+~ Move `main_dlg_cur` `proe_win` \
+9 493 330 0 1538 973 777 1440 900 35578 
+~ Move `main_dlg_cur` `proe_win` \
+9 494 329 0 1538 973 777 1440 900 35594 
+~ Move `main_dlg_cur` `proe_win` \
+9 494 327 0 1026 973 777 1440 900 35609 
+~ Move `main_dlg_cur` `proe_win` \
+9 495 323 0 1538 973 777 1440 900 35625 
+~ Move `main_dlg_cur` `proe_win` \
+9 496 321 0 1538 973 777 1440 900 35640 
+~ Move `main_dlg_cur` `proe_win` \
+9 496 319 0 1026 973 777 1440 900 35656 
+~ Move `main_dlg_cur` `proe_win` \
+9 497 315 0 1538 973 777 1440 900 35672 
+~ Move `main_dlg_cur` `proe_win` \
+9 498 313 0 1538 973 777 1440 900 35687 
+~ Move `main_dlg_cur` `proe_win` \
+9 498 310 0 1026 973 777 1440 900 35719 
+~ Move `main_dlg_cur` `proe_win` \
+9 498 309 0 1026 973 777 1440 900 35734 
+~ Move `main_dlg_cur` `proe_win` \
+9 501 309 0 514 973 777 1440 900 36125 
+~ Move `main_dlg_cur` `proe_win` \
+9 504 310 0 1538 973 777 1440 900 36140 
+~ Move `main_dlg_cur` `proe_win` \
+9 512 317 0 1538 973 777 1440 900 36156 
+~ Move `main_dlg_cur` `proe_win` \
+9 519 322 0 1538 973 777 1440 900 36172 
+~ Move `main_dlg_cur` `proe_win` \
+9 523 324 0 1538 973 777 1440 900 36187 
+~ Move `main_dlg_cur` `proe_win` \
+9 526 325 0 1538 973 777 1440 900 36203 
+~ Move `main_dlg_cur` `proe_win` \
+9 528 327 0 1538 973 777 1440 900 36219 
+~ Move `main_dlg_cur` `proe_win` \
+9 530 328 0 1538 973 777 1440 900 36234 
+~ Move `main_dlg_cur` `proe_win` \
+9 530 330 0 1026 973 777 1440 900 36281 
+~ Move `main_dlg_cur` `proe_win` \
+9 530 331 0 1026 973 777 1440 900 36297 
+~ Move `main_dlg_cur` `proe_win` \
+9 530 332 0 1026 973 777 1440 900 36312 
+~ Move `main_dlg_cur` `proe_win` \
+9 531 332 0 514 973 777 1440 900 36390 
+~ Move `main_dlg_cur` `proe_win` \
+9 531 333 0 1026 973 777 1440 900 36406 
+~ Move `main_dlg_cur` `proe_win` \
+9 534 333 0 514 973 777 1440 900 36531 
+~ Move `main_dlg_cur` `proe_win` \
+9 537 334 0 1538 973 777 1440 900 36531 
+~ Move `main_dlg_cur` `proe_win` \
+9 546 335 0 1538 973 777 1440 900 36547 
+~ Move `main_dlg_cur` `proe_win` \
+9 557 336 0 1538 973 777 1440 900 36562 
+~ Move `main_dlg_cur` `proe_win` \
+9 567 336 0 514 973 777 1440 900 36578 
+~ Move `main_dlg_cur` `proe_win` \
+9 575 336 0 514 973 777 1440 900 36594 
+~ Move `main_dlg_cur` `proe_win` \
+9 577 337 0 1538 973 777 1440 900 36609 
+~ Move `main_dlg_cur` `proe_win` \
+9 579 337 0 514 973 777 1440 900 36640 
+~ Move `main_dlg_cur` `proe_win` \
+9 583 337 0 514 973 777 1440 900 36656 
+~ Move `main_dlg_cur` `proe_win` \
+9 584 338 0 1538 973 777 1440 900 36672 
+~ Move `main_dlg_cur` `proe_win` \
+9 585 338 0 514 973 777 1440 900 36812 
+~ Move `main_dlg_cur` `proe_win` \
+9 587 338 0 514 973 777 1440 900 36828 
+~ Move `main_dlg_cur` `proe_win` \
+9 588 338 0 514 973 777 1440 900 36844 
+~ Move `main_dlg_cur` `proe_win` \
+9 589 338 0 514 973 777 1440 900 36859 
+~ Move `main_dlg_cur` `proe_win` \
+9 590 338 0 514 973 777 1440 900 36875 
+~ Move `main_dlg_cur` `proe_win` \
+9 592 338 0 514 973 777 1440 900 36890 
+~ Move `main_dlg_cur` `proe_win` \
+9 593 336 0 1538 973 777 1440 900 36906 
+~ Move `main_dlg_cur` `proe_win` \
+9 596 333 0 1538 973 777 1440 900 36922 
+~ Move `main_dlg_cur` `proe_win` \
+9 597 330 0 1538 973 777 1440 900 36937 
+~ Move `main_dlg_cur` `proe_win` \
+9 597 328 0 1026 973 777 1440 900 36953 
+~ Move `main_dlg_cur` `proe_win` \
+9 597 327 0 1026 973 777 1440 900 36969 
+~ Move `main_dlg_cur` `proe_win` \
+9 597 324 0 1026 973 777 1440 900 36984 
+~ Move `main_dlg_cur` `proe_win` \
+9 597 323 0 1026 973 777 1440 900 37000 
+~ Move `main_dlg_cur` `proe_win` \
+9 597 320 0 1026 973 777 1440 900 37015 
+~ Move `main_dlg_cur` `proe_win` \
+9 595 318 0 1538 973 777 1440 900 37031 
+~ Move `main_dlg_cur` `proe_win` \
+9 593 316 0 1538 973 777 1440 900 37047 
+~ Move `main_dlg_cur` `proe_win` \
+9 591 314 0 1538 973 777 1440 900 37062 
+~ Move `main_dlg_cur` `proe_win` \
+9 588 313 0 1538 973 777 1440 900 37094 
+~ Move `main_dlg_cur` `proe_win` \
+9 585 312 0 1538 973 777 1440 900 37109 
+~ Move `main_dlg_cur` `proe_win` \
+9 583 310 0 1538 973 777 1440 900 37125 
+~ Move `main_dlg_cur` `proe_win` \
+9 579 309 0 1538 973 777 1440 900 37140 
+~ Move `main_dlg_cur` `proe_win` \
+9 576 308 0 1538 973 777 1440 900 37156 
+~ Move `main_dlg_cur` `proe_win` \
+9 573 307 0 1538 973 777 1440 900 37172 
+~ Move `main_dlg_cur` `proe_win` \
+9 571 307 0 514 973 777 1440 900 37187 
+~ Move `main_dlg_cur` `proe_win` \
+9 570 307 0 514 973 777 1440 900 37203 
+~ Move `main_dlg_cur` `proe_win` \
+9 569 307 0 514 973 777 1440 900 37265 
+~ Move `main_dlg_cur` `proe_win` \
+9 568 307 0 514 973 777 1440 900 37281 
+~ Move `main_dlg_cur` `proe_win` \
+9 566 307 0 514 973 777 1440 900 37281 
+~ Move `main_dlg_cur` `proe_win` \
+9 562 309 0 1538 973 777 1440 900 37297 
+~ Move `main_dlg_cur` `proe_win` \
+9 559 314 0 1538 973 777 1440 900 37328 
+~ Move `main_dlg_cur` `proe_win` \
+9 556 317 0 1538 973 777 1440 900 37344 
+~ Move `main_dlg_cur` `proe_win` \
+9 555 317 0 514 973 777 1440 900 37484 
+~ Move `main_dlg_cur` `proe_win` \
+9 554 317 0 514 973 777 1440 900 37484 
+~ Move `main_dlg_cur` `proe_win` \
+9 553 318 0 1538 973 777 1440 900 37500 
+~ Move `main_dlg_cur` `proe_win` \
+9 553 319 0 1026 973 777 1440 900 37594 
+~ Move `main_dlg_cur` `proe_win` \
+9 552 320 0 1538 973 777 1440 900 37609 
+~ Move `main_dlg_cur` `proe_win` \
+9 551 321 0 1538 973 777 1440 900 37625 
+~ Move `main_dlg_cur` `proe_win` \
+9 550 322 0 1538 973 777 1440 900 37640 
+~ Move `main_dlg_cur` `proe_win` \
+9 549 322 0 514 973 777 1440 900 37656 
+~ Move `main_dlg_cur` `proe_win` \
+9 549 323 0 1026 973 777 1440 900 37750 
+~ Move `main_dlg_cur` `proe_win` \
+9 548 324 0 1538 973 777 1440 900 37750 
+~ Move `main_dlg_cur` `proe_win` \
+9 547 324 0 514 973 777 1440 900 37781 
+~ Move `main_dlg_cur` `proe_win` \
+9 548 323 0 1538 973 777 1440 900 37937 
+~ Move `main_dlg_cur` `proe_win` \
+9 549 322 0 1538 973 777 1440 900 37937 
+~ Move `main_dlg_cur` `proe_win` \
+9 551 319 0 1538 973 777 1440 900 37953 
+~ Move `main_dlg_cur` `proe_win` \
+9 551 315 0 1026 973 777 1440 900 37969 
+~ Move `main_dlg_cur` `proe_win` \
+9 551 312 0 1026 973 777 1440 900 37984 
+~ Move `main_dlg_cur` `proe_win` \
+9 551 310 0 1026 973 777 1440 900 38015 
+~ Move `main_dlg_cur` `proe_win` \
+9 551 307 0 1026 973 777 1440 900 38031 
+~ Move `main_dlg_cur` `proe_win` \
+9 551 306 0 1026 973 777 1440 900 38094 
+~ Move `main_dlg_cur` `proe_win` \
+9 551 304 0 1026 973 777 1440 900 38094 
+~ Move `main_dlg_cur` `proe_win` \
+9 549 303 0 1538 973 777 1440 900 38109 
+~ Move `main_dlg_cur` `proe_win` \
+9 548 303 0 514 973 777 1440 900 38125 
+~ Move `main_dlg_cur` `proe_win` \
+9 546 302 0 1538 973 777 1440 900 38140 
+~ Move `main_dlg_cur` `proe_win` \
+9 545 302 0 514 973 777 1440 900 38312 
+~ Move `main_dlg_cur` `proe_win` \
+9 544 302 0 514 973 777 1440 900 38328 
+~ Move `main_dlg_cur` `proe_win` \
+9 537 301 0 1538 973 777 1440 900 38344 
+~ Move `main_dlg_cur` `proe_win` \
+9 534 301 0 514 973 777 1440 900 38359 
+~ Move `main_dlg_cur` `proe_win` \
+9 533 301 0 514 973 777 1440 900 39906 
+~ Move `main_dlg_cur` `proe_win` \
+9 531 301 0 514 973 777 1440 900 39922 
+~ Move `main_dlg_cur` `proe_win` \
+9 530 304 0 1538 973 777 1440 900 39922 
+~ Move `main_dlg_cur` `proe_win` \
+9 530 305 0 1026 973 777 1440 900 39937 
+~ Move `main_dlg_cur` `proe_win` \
+9 529 307 0 1538 973 777 1440 900 39953 
+~ Move `main_dlg_cur` `proe_win` \
+9 528 311 0 1538 973 777 1440 900 39969 
+~ Move `main_dlg_cur` `proe_win` \
+9 527 313 0 1538 973 777 1440 900 39984 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 316 0 1538 973 777 1440 900 40000 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 319 0 1026 973 777 1440 900 40015 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 320 0 1026 973 777 1440 900 40031 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 322 0 1026 973 777 1440 900 40140 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 324 0 1026 973 777 1440 900 40140 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 325 0 1026 973 777 1440 900 40156 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 327 0 1026 973 777 1440 900 40172 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 328 0 1026 973 777 1440 900 40187 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 329 0 1026 973 777 1440 900 40219 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 331 0 1026 973 777 1440 900 40250 
+~ Move `main_dlg_cur` `proe_win` \
+9 525 333 0 1026 973 777 1440 900 40250 
+~ MButtonDisarm `main_dlg_cur` `proe_win` \
+9 525 333 0 0 973 777 1440 900 40969 
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Elements/Pro 将终止，并且所有未保存的工作将会丢失。
+!               : 您确实要退出吗?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!Application (eDrawings): running DLL-mode user_terminate
+!Application (eDrawings): returned from DLL-mode user_terminate
+!End of Trail File
